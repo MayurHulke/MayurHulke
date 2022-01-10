@@ -41,7 +41,6 @@
 + [STM32 microcontrollers and microprocessors](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html?dl=FcxX%2FvoI3lbBIzBQihs6ZQ%3D%3D%2CDi9FT5BdSYcLLQtwi9PNQJTotoY5PdRxzxavFrG42lq%2FED9qhaRX4lDvpd3MgB7mZ6XU04YxIetCAXaQwFGN8dyz5DEXiUmD2TOW0RAY7r0UT%2FdMtpaqYoH3mtz6qUdcMwf8z4cza4RAnIpD1Rz1a%2BbVZ59ZCa8T55gCddQt%2FFSfllHxpwGR97jp6%2FDEzHvKLJKcJkNd53uaxFxPhzVoxBu9bO0gT9xcfbMGDcnY1UMbCK0MvyXpNIcjQxYqAlHj%2FOqAzV0R1hiyiuiGBMt3eqc8gINzsBwqRk0Ejf7P86koCJnVqYjY%2BbE6At25CcjyLHnnScQWKYRdPpIh5NQqWWtRDl7lfBo3XznUJXHiNEs%3D)
 + [NVIDIA JETSON Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 
----
 
 <br />
 <br />

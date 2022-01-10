@@ -1,7 +1,48 @@
-- 👋 Hi, I’m Mayur
-- 👀 I’m passionate about Robotics...
-- 🌱 I’m currently working on Bio-Inspired Artificial Intelligence...
-<!---
-MayurHulke/MayurHulke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there, I'm Mayur
+
+
+## I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 
+
+- 🖥️ I’m currently working on optimizing time series Machine learning algorithms on low powered STM32 microcontrollers.
+- 🖥️ I’m alow working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
+- 🏆 2022 Goals: Make YouTube Videos to provide insights into Robotics World.
+- 🏊I am a professional swimmer - University
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png" />][]
+
+<br />
+<br />
+
+---
+
+### 🎬 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/LetsTalkWithRobots)
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+[youtube]: https://www.youtube.com/c/LetsTalkWithRobots
+[instagram]: https://www.instagram.com/lets_talk_with_robots/
+[linkedin]: https://www.linkedin.com/in/mayurhulke/

@@ -30,6 +30,11 @@
 ### 🎬 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Can This Robot Teach You about Robotics ?? - Clic-Bot](https://www.youtube.com/watch?v=n8pA9jj6Idk)
+- [What exactly is Robotics Engineering? | 3 Things you need to know if you are a beginner. | FAQ&#39;S](https://www.youtube.com/watch?v=NlOcSPDFnk0)
+- [A day In Life of Robotics Student +Entrepreneur+ Internship &lpar;AI &amp; Computer Vision&rpar;](https://www.youtube.com/watch?v=tx3zZeK8jYs)
+- [A Day In Life of Software Engineer in Bristol  - Student | Startup | Internship](https://www.youtube.com/watch?v=J-1p3k0ChW0)
+- [Student To Startup In a Year- Robotics &amp; Artificial Intelligence](https://www.youtube.com/watch?v=c5xPzj6Nda0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/LetsTalkWithRobots)

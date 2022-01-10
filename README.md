@@ -15,15 +15,23 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 ---
+<br />
 
-### Programming Languages:
+
+### Programming Languages & OS:
 
 + Python3 -(Pandas, NumPy, SCKIT Learn, SciPy, Matplotlib)
 + C++
 + SQL
 + Embedded C
++ ROS 2 - [Ubuntu Linux - Focal Fossa (20.04)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
+
+### IDE's
+
++ [Visual Studio Code](https://code.visualstudio.com/)
++ [IAR Embedded Workbench for Arm](https://www.iar.com/ewarm)
++ [Anaconda](https://www.anaconda.com/)
 
 ### Deep Learning Frameworks and Tools:
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Mayur
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&count-private=true
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhulke&layout=compact&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 #### I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 

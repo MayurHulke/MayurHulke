@@ -1,7 +1,5 @@
 ### Hi there, I'm Mayur
 
-[![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurhulke)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhulke)](https://github.com/anuraghazra/github-readme-stats)
 
 

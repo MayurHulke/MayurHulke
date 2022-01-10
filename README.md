@@ -1,7 +1,6 @@
 ### Hi there, I'm Mayur
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhulke)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 
@@ -19,11 +18,29 @@
 
 <br />
 
-### Languages and Tools:
+### Programming Languages:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1229px-TensorFlowLogo.svg.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png" />][]
++ Python3 -(Pandas, NumPy, SCKIT Learn, SciPy, Matplotlib)
++ C++
++ SQL
++ Embedded C
+
+### Deep Learning Frameworks and Tools:
+
++ [Tensorflow](https://www.tensorflow.org/)
++ [Keras](https://keras.io/)
++ [Tensorflow Lite](https://www.tensorflow.org/lite)
++ [Pytorch](https://pytorch.org/)
++ [OpenCV](https://opencv.org/)
++ [OpenVINO](https://docs.openvino.ai/latest/index.html#)
++ [TensorRT](https://developer.nvidia.com/tensorrt)
+
+### Hardware for AI at the Edge:
+
++ [NVIDIA XAVIER AGX](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
++ [STM32 microcontrollers and microprocessors](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html?dl=FcxX%2FvoI3lbBIzBQihs6ZQ%3D%3D%2CDi9FT5BdSYcLLQtwi9PNQJTotoY5PdRxzxavFrG42lq%2FED9qhaRX4lDvpd3MgB7mZ6XU04YxIetCAXaQwFGN8dyz5DEXiUmD2TOW0RAY7r0UT%2FdMtpaqYoH3mtz6qUdcMwf8z4cza4RAnIpD1Rz1a%2BbVZ59ZCa8T55gCddQt%2FFSfllHxpwGR97jp6%2FDEzHvKLJKcJkNd53uaxFxPhzVoxBu9bO0gT9xcfbMGDcnY1UMbCK0MvyXpNIcjQxYqAlHj%2FOqAzV0R1hiyiuiGBMt3eqc8gINzsBwqRk0Ejf7P86koCJnVqYjY%2BbE6At25CcjyLHnnScQWKYRdPpIh5NQqWWtRDl7lfBo3XznUJXHiNEs%3D)
++ [NVIDIA JETSON Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+
 
 <br />
 <br />
@@ -43,13 +60,6 @@
 ➡️ [more videos...](https://youtube.com/LetsTalkWithRobots)
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [youtube]: https://www.youtube.com/c/LetsTalkWithRobots
 [instagram]: https://www.instagram.com/lets_talk_with_robots/

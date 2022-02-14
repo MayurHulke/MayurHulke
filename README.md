@@ -57,7 +57,7 @@
 ### 🎬 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Which Programming languages Robotics Engineers use ?](https://www.youtube.com/watch?v=DTBSpbNhaCs)
+- [What programming language should I learn to get started with Robotics ?](https://www.youtube.com/watch?v=DTBSpbNhaCs)
 - [Can This Robot Teach You about Robotics ?? - Clic-Bot](https://www.youtube.com/watch?v=n8pA9jj6Idk)
 - [What exactly is Robotics Engineering? | 3 Things you need to know if you are a beginner. | FAQ&#39;S](https://www.youtube.com/watch?v=NlOcSPDFnk0)
 - [A day In Life of Robotics Student +Entrepreneur+ Internship &lpar;AI &amp; Computer Vision&rpar;](https://www.youtube.com/watch?v=tx3zZeK8jYs)

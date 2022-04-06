@@ -3,7 +3,7 @@
 #### I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 
 
 - 🖥️ I’m currently working on optimizing time series Machine learning algorithms on low powered STM32 microcontrollers.
-- 🖥️ I’m alow working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
+- 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
 - 🏆 2022 Goals: Make YouTube Videos to provide insights into Robotics World.
 - 🏊I am a professional swimmer - University
 

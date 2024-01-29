@@ -4,12 +4,9 @@
 
 - 🖥️ I’m currently working on optimizing time series Machine learning algorithms on low powered STM32 microcontrollers.
 - 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
-- 🏆 2022 Goals: 
+- 🏆 2024 Goals: 
     -  Deep Reinforcement Learning
-    -  Experiment / Rewrite existing personal projects with Unsupervised Learning Algorithms 
-    -  Make YouTube Videos to provide insights into Robotics World.
-- 🏊I am a professional swimmer - Open Water Swimming championships
-
+    -  Experiment / Rewrite existing personal projects with Unsupervised Learning Algorithms
 ---
 ### Connect with me:
 

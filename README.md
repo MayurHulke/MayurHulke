@@ -2,11 +2,13 @@
 ---
 #### I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 
 
-- 🖥️ I’m currently working on optimizing time series Machine learning algorithms on low powered STM32 microcontrollers.
+- 🖥️ I’m currently working on deep learning pipelines to deploy production ready computer vision models.
 - 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
 - 🏆 2024 Goals: 
     -  Deep Reinforcement Learning
     -  Experiment / Rewrite existing personal projects with Unsupervised Learning Algorithms
+    -  Create Educational "WhiteBox" computer vision & Deep Learning Projects for community.
+    -  Optimising deep learning algorithms for vision module for mobile robots like myAGV 2023 and many more.
 ---
 ### Connect with me:
 
@@ -20,9 +22,8 @@
 
 + Python3 -(Pandas, NumPy, SCKIT Learn, SciPy, Matplotlib)
 + C++
-+ SQL
 + Embedded C
-+ ROS 2 - [Ubuntu Linux - Focal Fossa (20.04)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
++ ROS/ROS 2 - [Ubuntu Linux - Focal Fossa (20.04)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
 
 ### IDE's
 

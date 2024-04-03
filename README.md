@@ -1,14 +1,14 @@
-### Hi there, I'm Mayur
+### Hi there, I'm Mayur : https://mayurhulke.github.io
 ---
-#### I'm a 🤖 Robotics Enginner specializing in Intelligent Bionic Legs & Machine Learning at Bristol Robotics Lab, UK 
+#### I'm a 🤖 Robotics & Computer Vision Enginner from UK. I finished my masters in Advanced Robotics & AI from Bristol University in England. During studies I worked as robotics reseracher at one of the UK's Biggest robotics lab: Bristol Robotics Lab where I specialized in Intelligent Bionic Legs & Machine Learning.
 
 - 🖥️ I’m currently working on deep learning pipelines to deploy production ready computer vision models.
-- 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
+- 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/) & [Jetson Orin Nano](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/)
 - 🏆 2024 Goals: 
-    -  Deep Reinforcement Learning
-    -  Experiment / Rewrite existing personal projects with Unsupervised Learning Algorithms
+    -  Experiment with Multi-Agent Deep Reinforcement Learning agentic workflows.
+    -  Experiment / Rewrite existing personal projects with Self-Supervised Learning Approach.
     -  Create Educational "WhiteBox" computer vision & Deep Learning Projects for community.
-    -  Optimising deep learning algorithms for vision module for mobile robots like myAGV 2023 and many more.
+    -  Optimising deep learning algorithms for vision module for mobile robots like myAGV 2023 and other robotics hardware kits.
 ---
 ### Connect with me:
 
@@ -44,6 +44,7 @@
 ### Hardware for AI at the Edge:
 
 + [NVIDIA XAVIER AGX](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
++ [Jetson Orin Nano](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/)
 + [STM32 microcontrollers and microprocessors](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html?dl=FcxX%2FvoI3lbBIzBQihs6ZQ%3D%3D%2CDi9FT5BdSYcLLQtwi9PNQJTotoY5PdRxzxavFrG42lq%2FED9qhaRX4lDvpd3MgB7mZ6XU04YxIetCAXaQwFGN8dyz5DEXiUmD2TOW0RAY7r0UT%2FdMtpaqYoH3mtz6qUdcMwf8z4cza4RAnIpD1Rz1a%2BbVZ59ZCa8T55gCddQt%2FFSfllHxpwGR97jp6%2FDEzHvKLJKcJkNd53uaxFxPhzVoxBu9bO0gT9xcfbMGDcnY1UMbCK0MvyXpNIcjQxYqAlHj%2FOqAzV0R1hiyiuiGBMt3eqc8gINzsBwqRk0Ejf7P86koCJnVqYjY%2BbE6At25CcjyLHnnScQWKYRdPpIh5NQqWWtRDl7lfBo3XznUJXHiNEs%3D)
 + [NVIDIA JETSON Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 

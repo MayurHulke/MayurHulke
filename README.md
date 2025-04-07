@@ -1,59 +1,68 @@
-### Hi there, I'm Mayur : https://mayurhulke.github.io
----
-#### I'm a 🤖 Robotics & Computer Vision Enginner from UK. I finished my masters in Advanced Robotics & AI from Bristol University in England. During studies I worked as robotics reseracher at one of the UK's Biggest robotics lab: Bristol Robotics Lab where I specialized in Intelligent Bionic Legs & Machine Learning.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I+Build+Robots;Staff+AI+%26+Robotics+Engineer;Multi-agent+VLA+Systems" alt="Typing SVG" />
+</div>
 
-- 🖥️ I’m currently working on deep learning pipelines to deploy production ready computer vision models.
-- 🖥️ I’m also working on Optimizing the fusion of multiple deep learning algorithms **(Object detection, classification & object Tracking)** for [NVIDA AGX XAVIER](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/) & [Jetson Orin Nano](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/)
-- 🏆 2024 Goals: 
-    -  Experiment with Multi-Agent Deep Reinforcement Learning agentic workflows.
-    -  Experiment / Rewrite existing personal projects with Self-Supervised Learning Approach.
-    -  Create Educational "WhiteBox" computer vision & Deep Learning Projects for community.
-    -  Optimising deep learning algorithms for vision module for mobile robots like myAGV 2023 and other robotics hardware kits.
----
-### Connect with me:
+## 👨‍💻 About Me
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+> 🤖 **Staff AI & Robotics Engineer** Working on Multi-agent Vision Language Action (VLA) systems for robotics.
 
-<br />
+- 🤖 Currently working on **Multi-agent VLA systems** for general-purpose robotic manipulators
+- 🎯 Developing **advanced vision models**  for multi-activity action recognition on manufacturing video data for accurate identification of complex simultaneous operations. 
+- 🎥 Building **learning-by-demonstration** systems for industrial robotics
+- 🎓 MSc in Advanced Robotics & AI from Bristol University
+- 🔬 Former Robotics Researcher at Bristol Robotics Lab (Intelligent Bionic Legs & ML)
 
-### Programming Languages & OS:
+## 🛠️ Technical Stack
 
-+ Python3 -(Pandas, NumPy, SCKIT Learn, SciPy, Matplotlib)
-+ C++
-+ Embedded C
-+ ROS/ROS 2 - [Ubuntu Linux - Focal Fossa (20.04)](https://docs.ros.org/en/foxy/Installation/Ubuntu-Development-Setup.html)
+### 🤖 Robotics & AI
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
-### IDE's
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-+ [Visual Studio Code](https://code.visualstudio.com/)
-+ [IAR Embedded Workbench for Arm](https://www.iar.com/ewarm)
-+ [Anaconda](https://www.anaconda.com/)
+### 🖥️ Development Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-### Deep Learning Frameworks and Tools:
+### 🔄 MLOps & DevOps
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-+ [Tensorflow](https://www.tensorflow.org/)
-+ [Keras](https://keras.io/)
-+ [Tensorflow Lite](https://www.tensorflow.org/lite)
-+ [Pytorch](https://pytorch.org/)
-+ [OpenCV](https://opencv.org/)
-+ [OpenVINO](https://docs.openvino.ai/latest/index.html#)
-+ [TensorRT](https://developer.nvidia.com/tensorrt)
+### 🤖 AI Agent Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![AutoGPT](https://img.shields.io/badge/AutoGPT-00A67E?style=for-the-badge&logo=autogpt&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-00A67E?style=for-the-badge&logo=microsoft&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![RAGStack](https://img.shields.io/badge/RAGStack-00A67E?style=for-the-badge&logo=python&logoColor=white)
+![Agent.py](https://img.shields.io/badge/Agent.py-00A67E?style=for-the-badge&logo=python&logoColor=white)
 
-### Hardware for AI at the Edge:
+### 🔧 Hardware Platforms
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Jetson](https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-+ [NVIDIA XAVIER AGX](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-agx-xavier/)
-+ [Jetson Orin Nano](https://www.nvidia.com/en-gb/autonomous-machines/embedded-systems/jetson-orin/)
-+ [STM32 microcontrollers and microprocessors](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-configurators-and-code-generators/stm32cubemx.html?dl=FcxX%2FvoI3lbBIzBQihs6ZQ%3D%3D%2CDi9FT5BdSYcLLQtwi9PNQJTotoY5PdRxzxavFrG42lq%2FED9qhaRX4lDvpd3MgB7mZ6XU04YxIetCAXaQwFGN8dyz5DEXiUmD2TOW0RAY7r0UT%2FdMtpaqYoH3mtz6qUdcMwf8z4cza4RAnIpD1Rz1a%2BbVZ59ZCa8T55gCddQt%2FFSfllHxpwGR97jp6%2FDEzHvKLJKcJkNd53uaxFxPhzVoxBu9bO0gT9xcfbMGDcnY1UMbCK0MvyXpNIcjQxYqAlHj%2FOqAzV0R1hiyiuiGBMt3eqc8gINzsBwqRk0Ejf7P86koCJnVqYjY%2BbE6At25CcjyLHnnScQWKYRdPpIh5NQqWWtRDl7lfBo3XznUJXHiNEs%3D)
-+ [NVIDIA JETSON Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurhulke&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurhulke&theme=radical" alt="GitHub Streak" />
+</div>
 
-<br />
-
----
-
-### 🎬 Latest YouTube Videos
+## 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [What programming language should I learn to get started with Robotics ?](https://www.youtube.com/watch?v=DTBSpbNhaCs)
@@ -65,8 +74,19 @@
 
 ➡️ [more videos...](https://youtube.com/LetsTalkWithRobots)
 
----
+## 🤝 Connect with Me
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
 
 [youtube]: https://www.youtube.com/c/LetsTalkWithRobots
 [instagram]: https://www.instagram.com/lets_talk_with_robots/
 [linkedin]: https://www.linkedin.com/in/mayurhulke/
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurhulke&color=blueviolet" alt="Profile Views" />
+</div>

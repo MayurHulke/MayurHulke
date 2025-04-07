@@ -76,7 +76,7 @@
 <br />
 
 [youtube]: https://www.youtube.com/c/LetsTalkWithRobots
-[instagram]: https://www.instagram.com/lets_talk_with_robots/
+[instagram]: https://www.instagram.com/themayurhulk/
 [linkedin]: https://www.linkedin.com/in/mayurhulke/
 [twitter]: https://x.com/LetstalkRobots
 

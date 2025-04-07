@@ -1,12 +1,5 @@
-<div align="center">
-  <h1>Mayur Hulke</h1>
-  <p><em>Staff AI & Robotics Engineer</em></p>
-</div>
-
----
-
-<div align="center">
-  <p>Building the future of robotics through Multi-agent Vision Language Action systems</p>
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">
+  <h1 style="font-weight: 600; letter-spacing: -0.5px;">Building Physical Intelligence for Real-World 🤖 Robots</h1>
 </div>
 
 ## About

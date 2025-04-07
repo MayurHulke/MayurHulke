@@ -34,21 +34,13 @@
 
 ### 🔄 MLOps & DevOps
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 
 ### 🤖 AI Agent Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-00A67E?style=for-the-badge&logo=python&logoColor=white)
-![AutoGPT](https://img.shields.io/badge/AutoGPT-00A67E?style=for-the-badge&logo=autogpt&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-00A67E?style=for-the-badge&logo=microsoft&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A67E?style=for-the-badge&logo=python&logoColor=white)
-![Haystack](https://img.shields.io/badge/Haystack-00A67E?style=for-the-badge&logo=python&logoColor=white)
-![RAGStack](https://img.shields.io/badge/RAGStack-00A67E?style=for-the-badge&logo=python&logoColor=white)
-![Agent.py](https://img.shields.io/badge/Agent.py-00A67E?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🔧 Hardware Platforms
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -79,12 +71,14 @@
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 [youtube]: https://www.youtube.com/c/LetsTalkWithRobots
 [instagram]: https://www.instagram.com/lets_talk_with_robots/
 [linkedin]: https://www.linkedin.com/in/mayurhulke/
+[twitter]: https://x.com/LetstalkRobots
 
 ---
 <div align="center">

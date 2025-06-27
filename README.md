@@ -18,12 +18,6 @@ I'm a Staff AI & Robotics Engineer specializing in Multi-agent Vision Language A
 - [Can This Robot Teach You about Robotics? - Clic-Bot](https://www.youtube.com/watch?v=n8pA9jj6Idk)
 - [What exactly is Robotics Engineering?](https://www.youtube.com/watch?v=NlOcSPDFnk0)
 
-### GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurhulke&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayurhulke&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ## Connect
 
 <div align="center">

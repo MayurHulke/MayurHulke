@@ -2,6 +2,8 @@
   <h1 style="font-weight: 600; letter-spacing: -0.5px;">Building Physical Intelligence for Real-World 🤖 Robots</h1>
 </div>
 
+**[Play Now →](https://mayurhulke.github.io/game-theory-arcade/prisoners-dilemma/)**
+
 ## About
 
 I'm a Staff AI & Robotics Engineer specializing in Multi-agent Vision Language Action (VLA) systems for robotics. With a background in Advanced Robotics & AI from Bristol University and experience at Bristol Robotics Lab, I focus on developing intelligent systems that bridge the gap between vision, language, and robotic actions.

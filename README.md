@@ -2,7 +2,7 @@
   <h1 style="font-weight: 600; letter-spacing: -0.5px;">Building Physical Intelligence for Real-World 🤖 Robots</h1>
 </div>
 
-**[Play Now →](https://mayurhulke.github.io/game-theory-arcade/prisoners-dilemma/)**
+**[🎮 Play Now →](https://mayurhulke.github.io/game-theory-arcade/)**
 
 ## About
 

@@ -14,10 +14,12 @@ I'm a Staff AI & Robotics Engineer specializing in Multi-agent Vision Language A
 ## Projects
 
 - 🔐 **[SentinelDocs](https://github.com/MayurHulke/SentinelDocs)** - Offline, privacy-first AI assistant for analyzing and searching confidential documents — zero cloud dependency
-- 🎨 **[Diffusion Model from Scratch](https://github.com/MayurHulke/Diffusion-model-from-scratch)** - Building a Denoising Diffusion Probabilistic Model from scratch to generate synthetic car images
-- 👁️ **[Face Recognition: Eigenfaces vs CNN](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn)** - Comparative study of traditional Eigenfaces vs modern CNN-based face recognition using DLIB
 - 🎮 **[Game Theory Arcade](https://github.com/MayurHulke/game-theory-arcade)** - Learn game theory concepts through interactive play
 - 📡 **[Realtime VLM](https://github.com/MayurHulke/realtime-vlm)** - Real-time Vision Language Model streaming interface
+
+### Legacy Work
+- 🎨 **[Diffusion Model from Scratch](https://github.com/MayurHulke/Diffusion-model-from-scratch)** - Building a Denoising Diffusion Probabilistic Model from scratch to generate synthetic car images
+- 👁️ **[Face Recognition: Eigenfaces vs CNN](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn)** - Comparative study of traditional Eigenfaces vs modern CNN-based face recognition using DLIB
 
 ## Featured Content
 

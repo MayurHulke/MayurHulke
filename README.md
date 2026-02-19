@@ -2,8 +2,6 @@
   <h1 style="font-weight: 600; letter-spacing: -0.5px;">Building Physical Intelligence for Real-World 🤖 Robots</h1>
 </div>
 
-**[Learn by Playing : 🎮  Game theory Arcade →](https://mayurhulke.github.io/game-theory-arcade/)**
-
 ## About
 
 I'm a Staff AI & Robotics Engineer specializing in Multi-agent Vision Language Action (VLA) systems for robotics. With a background in Advanced Robotics & AI from Bristol University and experience at Bristol Robotics Lab, I focus on developing intelligent systems that bridge the gap between vision, language, and robotic actions.
@@ -12,6 +10,14 @@ I'm a Staff AI & Robotics Engineer specializing in Multi-agent Vision Language A
 - 🤖 Multi-agent VLA systems for general-purpose robotic manipulators
 - 🎯 Advanced vision models for manufacturing process monitoring
 - 🎥 Learning-by-demonstration systems for industrial robotics
+
+## Projects
+
+- 🔐 **[SentinelDocs](https://github.com/MayurHulke/SentinelDocs)** - Offline, privacy-first AI assistant for analyzing and searching confidential documents — zero cloud dependency
+- 🎨 **[Diffusion Model from Scratch](https://github.com/MayurHulke/Diffusion-model-from-scratch)** - Building a Denoising Diffusion Probabilistic Model from scratch to generate synthetic car images
+- 👁️ **[Face Recognition: Eigenfaces vs CNN](https://github.com/MayurHulke/face-recognition-eigenfaces-vs-cnn)** - Comparative study of traditional Eigenfaces vs modern CNN-based face recognition using DLIB
+- 🎮 **[Game Theory Arcade](https://github.com/MayurHulke/game-theory-arcade)** - Learn game theory concepts through interactive play
+- 📡 **[Realtime VLM](https://github.com/MayurHulke/realtime-vlm)** - Real-time Vision Language Model streaming interface
 
 ## Featured Content
 
